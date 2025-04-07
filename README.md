@@ -3,10 +3,15 @@ This MATLAB app performs peak deconvolution of three analytes: Ascorbic Acid (AA
 
 
 🛠️ Features:
+
 📊 Interactive plotting of raw and baseline-corrected signals
+
 🤖 ML-based prediction of peak positions, amplitudes, and variances
+
 💉 Estimation of AA, DA, and UA concentrations using trained regression models
+
 🖥️ User-friendly MATLAB App Designer interface
+
 📂 Import custom CSV data and analyze with one click
 
 🚀 Getting Started:
