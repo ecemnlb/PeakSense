@@ -2,6 +2,7 @@
 
 This MATLAB app performs peak deconvolution of three analytes: Ascorbic Acid (AA), Dopamine (DA), and Uric Acid (UA) from voltammetric data. It includes baseline correction, peak detection, feature extraction, and machine learning-based concentration prediction using pre-trained models.
 
+
 🛠️ Features:
 
 📊 Interactive plotting of raw and baseline-corrected signals
@@ -14,7 +15,9 @@ This MATLAB app performs peak deconvolution of three analytes: Ascorbic Acid (AA
 
 📂 Import custom CSV data and analyze with one click
 
+
 🚀 Getting Started:
+
 
 🔧 Requirements:
 
@@ -23,6 +26,7 @@ MATLAB R2020a or newer
 Statistics and Machine Learning Toolbox
 
 Curve Fitting Toolbox 
+
 
 💻 Installation:
 
@@ -39,6 +43,7 @@ Open the app file:
 open('peakAnalysiss.mlapp')
 
 Run the app from the App Designer or click Run in the toolbar.
+
 
 📝 Usage Instructions:
 
